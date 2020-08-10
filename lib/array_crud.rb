@@ -23,7 +23,7 @@ array.shift
 end
 
 def retrieve_element_from_index(array, index_number)
-  array = [1,3,5,"Me"]
+  array = [1,3,5,"am"]
 index_number = array[3]
 end
 
