@@ -23,8 +23,8 @@ array.shift
 end
 
 def retrieve_element_from_index(array, index_number)
-  array = [1,3,5,"am"]
-index_number = array[3]
+  array = [1,"am",3,5,6]
+index_number = array[1]
 end
 
 def retrieve_first_element_from_array(array)
